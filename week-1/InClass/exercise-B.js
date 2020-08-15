@@ -1,0 +1,10 @@
+let firstname = "Halo";
+let secondname = "dunia";
+let thirdname = "ciao";
+let fourthname = "mundo";
+let nationality1 = "// Indonesia";
+let nationality2 = "// Italian";
+let nationality3 = "// Spanish";
+console.log(firstname, secondname, nationality1);
+console.log(thirdname, fourthname, nationality2);
+console.log(firstname, fourthname, nationality3);
