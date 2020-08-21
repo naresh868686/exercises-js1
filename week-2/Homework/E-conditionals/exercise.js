@@ -3,11 +3,19 @@
   ---------------------------------
   Add an if statement to check Daniel's role in a CYF class.
   If Daniel is a mentor, print out "Hi, I'm Daniel, I'm a mentor."
-  If Daniel is a student, print out "Hi, I'm Daniel, I'm a student."
+  If Daniel is a student, print out "Hi, Im Daneil, I am a student"
 */
 
 var name = "Daniel";
 var danielsRole = "mentor";
+
+if (name != danielsRole){
+  console.log("Hi, I'm Daniel, I'm a mentor");
+}
+else {
+  console.log("Hi, Im Daneil, I'm a student");
+}
+
 
 /* 
 EXPECTED RESULT
